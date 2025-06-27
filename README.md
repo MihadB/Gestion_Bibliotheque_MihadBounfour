@@ -3,8 +3,10 @@ BOUNFOUR MIHAD
 1.2 Prérequis:
 1.3 Python 3.x installé
 1.4 Bibliothèques requises :
-   1.4.1 pip install matplotlib 
+   1.4.1 pip install matplotlib
+   
 2.Lancement de l'application
+
 python main.py
 
 3. Fonctionnalités et Mode d'Emploi:
