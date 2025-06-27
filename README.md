@@ -8,23 +8,23 @@ Bibliothèques requises :
 python main.py
 
 3. Fonctionnalités et Mode d'Emploi:
-   📚 Gestion des Livres
-Ajouter un livre	     Menu →  Gestion des livres →  Ajouter
-Supprimer un livre	   Menu →  Gestion des livres →  Supprimer (saisir l'ISBN)
-Rechercher un livre	   Menu →  Gestion des livres →  Rechercher (par titre/auteur/genre)
-   👥 Gestion des Membres:
+4.📚 Gestion des Livres
+5.Ajouter un livre	     Menu →  Gestion des livres →  Ajouter
+6.Supprimer un livre	   Menu →  Gestion des livres →  Supprimer (saisir l'ISBN)
+7.Rechercher un livre	   Menu →  Gestion des livres →  Rechercher (par titre/auteur/genre)
+   8.👥 Gestion des Membres:
 
-Enregistrer un membre	  Menu →  Gestion des membres → Enregistrer
-Consulter les emprunts	Menu →  Emprunts →  Lister les emprunts
+9.Enregistrer un membre	  Menu →  Gestion des membres → Enregistrer
+10.Consulter les emprunts	Menu →  Emprunts →  Lister les emprunts
 
-   🔄 Emprunts & Retours :
+   11.🔄 Emprunts & Retours :
 
-Emprunter un livre	Menu →  Emprunts →  Emprunter (saisir ISBN + ID membre)
-Retourner un livre	Menu →  Emprunts →  Retourner (saisir ISBN)
-    💾 Sauvegarde des Données:
-Les données sont automatiquement sauvegardées dans :
+12.Emprunter un livre	Menu →  Emprunts →  Emprunter (saisir ISBN + ID membre)
+13.Retourner un livre	Menu →  Emprunts →  Retourner (saisir ISBN)
+    14.💾 Sauvegarde des Données:
+15.Les données sont automatiquement sauvegardées dans :
 
-data/livres.txt (liste des livres)
-data/membres.txt (liste des membres)
-data/historique.csv (historique des transactions)
+16.data/livres.txt (liste des livres)
+17.data/membres.txt (liste des membres)
+18.data/historique.csv (historique des transactions)
 
