@@ -1,0 +1,5 @@
+978-2070360426;Le Petit Prince;Antoine de Saint-Exupéry;1943;Conte;disponible
+978-2253121206;1984;George Orwell;1949;Science-Fiction;disponible
+978-2290032722;L'Étranger;Albert Camus;1942;Roman;emprunté
+978-2080708576;Le Seigneur des Anneaux;J.R.R. Tolkien;1954;Fantasy;disponible
+978-2266144346;Harry Potter à l'école des sorciers;J.K. Rowling;1997;Jeunesse;disponible
