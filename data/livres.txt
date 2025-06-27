@@ -1,0 +1,45 @@
+638990001234;White night;Dostoeveskey;1982;roman;emprunté
+6578430010235;White Nights;Dostoeveskey;1982;Roman;emprunté
+4578001233452;HHFJK;LAMI;2006;Roman;emprunté
+1004435567811;Murder On The Orient Express;Agatha Christie;1934;Roman;emprunté
+978207034861;L'étranger;Albert Camus;1942;Roman;disponible
+9887455321100;Le petit Prince;Antoine de Saint-Exupéry;1943;Conte;emprunté
+1115550926733;Le Seugneur des Anneaux;Tolkien;1954;Fantasy;disponible
+6435728397832;Le Hobbit;Tolkien;1955;Fantasy;disponible
+1144563890023;L'epée de Shannara;Terry Brooks;1977;Fantasy;disponible
+1100223998456;Conan Le Barbare;Robert E.Howard;1930;Fantasy;disponible
+6356001123564;L'Assassin Royal;Robin Hobb;1995;Fantasy;disponible
+6754784230356;NBDFB;MIHAD;2025;Roman;emprunté
+4682390045671;1984;George Orwell;1942;Fantasy;emprunté
+1003456772301;Cent ans de solitude;Gabriel Garcia Marquez;1952;Roman;disponible
+0011345678893;Dune;Frank Herbert;1965;Fantasy;disponible
+638990001234;White night;Dostoeveskey;1982;roman;emprunté
+6578430010235;White Nights;Dostoeveskey;1982;Roman;emprunté
+4578001233452;HHFJK;LAMI;2006;Roman;emprunté
+1004435567811;Murder On The Orient Express;Agatha Christie;1934;Roman;emprunté
+978207034861;L'étranger;Albert Camus;1942;Roman;disponible
+9887455321100;Le petit Prince;Antoine de Saint-Exupéry;1943;Conte;emprunté
+1115550926733;Le Seugneur des Anneaux;Tolkien;1954;Fantasy;disponible
+6435728397832;Le Hobbit;Tolkien;1955;Fantasy;disponible
+1144563890023;L'epée de Shannara;Terry Brooks;1977;Fantasy;disponible
+1100223998456;Conan Le Barbare;Robert E.Howard;1930;Fantasy;disponible
+6356001123564;L'Assassin Royal;Robin Hobb;1995;Fantasy;disponible
+6754784230356;NBDFB;MIHAD;2025;Roman;emprunté
+4682390045671;1984;George Orwell;1942;Fantasy;emprunté
+1003456772301;Cent ans de solitude;Gabriel Garcia Marquez;1952;Roman;disponible
+0011345678893;Dune;Frank Herbert;1965;Fantasy;disponible
+638990001234;White night;Dostoeveskey;1982;roman;emprunté
+6578430010235;White Nights;Dostoeveskey;1982;Roman;emprunté
+4578001233452;HHFJK;LAMI;2006;Roman;emprunté
+1004435567811;Murder On The Orient Express;Agatha Christie;1934;Roman;emprunté
+978207034861;L'étranger;Albert Camus;1942;Roman;disponible
+9887455321100;Le petit Prince;Antoine de Saint-Exupéry;1943;Conte;emprunté
+1115550926733;Le Seugneur des Anneaux;Tolkien;1954;Fantasy;disponible
+6435728397832;Le Hobbit;Tolkien;1955;Fantasy;disponible
+1144563890023;L'epée de Shannara;Terry Brooks;1977;Fantasy;disponible
+1100223998456;Conan Le Barbare;Robert E.Howard;1930;Fantasy;disponible
+6356001123564;L'Assassin Royal;Robin Hobb;1995;Fantasy;disponible
+6754784230356;NBDFB;MIHAD;2025;Roman;emprunté
+4682390045671;1984;George Orwell;1942;Fantasy;emprunté
+1003456772301;Cent ans de solitude;Gabriel Garcia Marquez;1952;Roman;disponible
+0011345678893;Dune;Frank Herbert;1965;Fantasy;emprunté
